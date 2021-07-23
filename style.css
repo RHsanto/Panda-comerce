@@ -1,0 +1,50 @@
+
+.carousel-item{
+  padding: 20px 40px;
+
+}
+
+
+.slider  {
+background-color: #FEEAE9;
+border-radius: 15px;
+
+}
+
+.dollar{
+  color: #FF136F;
+}
+.cate{
+  background-color: #FFA500;
+  padding: 10px 30px;
+}
+
+.cate-2{
+  background-color: orchid;
+  padding: 10px 30px;
+}
+.cate-3{
+  background: blue;
+  padding: 10px 30px;
+}
+
+
+.btn {
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 25px;
+  cursor: pointer;
+}
+
+.fot{
+  background-color: #FEEAE9;
+  border-radius: 10px;
+}
+input{
+  padding: 12px;
+  border: 0;
+  border-radius: 5px;
+  width: 100%;
+}
